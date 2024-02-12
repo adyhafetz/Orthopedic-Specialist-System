@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Patient
+comment1.params=
+comment1.target=Patient()
+comment10.params=
+comment10.target=double\ treatmentCost()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=patientName\ patientICNo\ patientTelNo\ treatmentType\ treatmentStatus\ appoinmentDate
+comment2.target=Patient(java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ boolean,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPatientName()
+comment4.params=
+comment4.target=java.lang.String\ getPatientICNo()
+comment5.params=
+comment5.target=java.lang.String\ getPatientTelNo()
+comment6.params=
+comment6.target=char\ getTreatmentType()
+comment7.params=
+comment7.target=boolean\ getTreatmentStatus()
+comment8.params=
+comment8.target=java.lang.String\ getAppointmentDate()
+comment9.params=treatmentStatus
+comment9.target=void\ setTreatmentStatus(boolean)
+numComments=12

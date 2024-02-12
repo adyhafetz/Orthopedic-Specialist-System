@@ -1,0 +1,153 @@
+==================================================================================================================================
+Patient List
+==================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------
+|Name                            |IC Number         |Telephone No.  |Type                 |Status       |Date         |Cost(RM)  |
+----------------------------------------------------------------------------------------------------------------------------------
+|Aida Radhiah binti Azmi         |700525-01-5266    |011-7540158    |Arthroscopy          |Completed    |30-06-2023   |5000.00   |
+|Hana Humaira binti Rodzaini     |671206-02-7608    |011-2908018    |Arthroscopy          |Completed    |06-08-2023   |5000.00   |
+|Anis Sabrina binti Ady          |930911-01-6950    |016-6418860    |Fracture Repair      |Pending      |07-06-2023   |1500.00   |
+|Muhammad Aqeel bin Riduan       |960127-01-8281    |011-2805011    |Arthroscopy          |Completed    |19-10-2023   |5000.00   |
+|Aleeya Batrisha binti Fazrul    |750922-03-3728    |010-2059727    |Spinal Surgery       |Pending      |13-06-2023   |8000.00   |
+|Muhammad Alif bin Teega         |861202-04-1413    |014-0508748    |Spinal Surgery       |Pending      |20-06-2023   |8000.00   |
+|Juliana binti Evans             |960314-04-7432    |011-7417537    |Fracture Repair      |Completed    |14-02-2023   |1500.00   |
+|Intan Haziqah binti Shadi       |970307-11-2774    |016-1502628    |Joint Replacement    |Pending      |19-09-2023   |10000.00  |
+|Yusuf bin Syukri                |750223-05-1831    |012-1246229    |Joint Replacement    |Completed    |01-12-2023   |10000.00  |
+|Yusnita binti Sokman            |12345             |54321          |Arthroscopy          |Pending      |18-01-2023   |5000.00   |
+|Ahmad Sufian bin Suhaimi        |000607-06-8773    |011-2566917    |Fracture Repair      |Completed    |02-05-2023   |1500.00   |
+|Balqis Ariana binti Umar        |718020-05-3892    |017-4811239    |Fracture Repair      |Completed    |07-01-2023   |1500.00   |
+|Haziq Zikri bin Azam            |730723-10-3829    |019-7452301    |Arthroscopy          |Completed    |30-04-2023   |5000.00   |
+|Danish Hakim bin Rahim          |810502-07-1817    |017-3429421    |Spinal Surgery       |Pending      |12-03-2023   |8000.00   |
+|Marissa Alya binti Alif         |610413-06-9160    |017-6392210    |Joint Replacement    |Completed    |08-11-2023   |10000.00  |
+|Nadhir Darwish bin Hakim        |720124-03-1839    |019-9563821    |Fracture Repair      |Completed    |31-01-2023   |1500.00   |
+|Hannah Damia binti Harriz       |621114-02-1038    |019-4297610    |Arthroscopy          |Pending      |14-04-2023   |5000.00   |
+|Iris Amani binti Hady           |980718-08-4634    |017-6552934    |Spinal Surgery       |Completed    |28-05-2023   |8000.00   |
+|Irfan Syahmi bin Amirul         |870921-02-0183    |019-7329384    |Joint Replacement    |Completed    |16-03-2023   |10000.00  |
+|Nur Khalisha binti Amsyar       |701224-10-3816    |019-5283956    |Fracture Repair      |Pending      |22-05-2023   |1500.00   |
+|Ariff Asyraf bin Khalid         |801010-07-9321    |017-7294630    |Spinal Surgery       |Completed    |19-06-2023   |8000.00   |
+|Nurul Irdina binti Azmir        |920326-10-7822    |019-2911013    |Arthroscopy          |Completed    |21-07-2023   |5000.00   |
+|Sarah Aisyah binti Amir         |920413-11-0388    |017-4552192    |Fracture Repair      |Pending      |13-02-2023   |1500.00   |
+|Alisha Balqis binti Zafir       |750120-01-1934    |019-2819014    |Arthroscopy          |Completed    |18-05-2023   |5000.00   |
+|Aidan Hadif bin Ishak           |930418-12-9217    |017-8772305    |Spinal Surgery       |Completed    |21-06-2023   |8000.00   |
+|Mia Qaisara binti Hafiz         |681201-09-0292    |017-6355021    |Joint Replacement    |Pending      |09-09-2023   |10000.00  |
+|Khadijah Zaini binti Zahrul     |931230-10-1162    |017-8892730    |Fracture Repair      |Completed    |01-03-2023   |1500.00   |
+|Marissa Iris binti Saiful       |070611-13-4032    |019-6239415    |Fracture Repair      |Completed    |02-08-2023   |1500.00   |
+|Aqil Ammar bin Hamadi           |780223-11-0623    |019-7382261    |Spinal Surgery       |Pending      |03-08-2023   |8000.00   |
+|Danish Rayyan bin Izwan         |040723-01-1937    |017-7632184    |Arthroscopy          |Completed    |07-10-2023   |5000.00   |
+|Iman Safiyyah binti Imran       |750913-07-1836    |017-5581932    |Joint Replacement    |Completed    |25-02-2023   |10000.00  |
+----------------------------------------------------------------------------------------------------------------------------------
+/n/n==================================================================================================================================
+Patient List (Sorted By Appointment Date)
+==================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------
+|Name                            |IC Number         |Telephone No.  |Type                 |Status       |Date         |Cost(RM)  |
+----------------------------------------------------------------------------------------------------------------------------------
+|Balqis Ariana binti Umar        |718020-05-3892    |017-4811239    |Fracture Repair      |Completed    |07-01-2023   |1500.00   |
+|Yusnita binti Sokman            |12345             |54321          |Arthroscopy          |Pending      |18-01-2023   |5000.00   |
+|Nadhir Darwish bin Hakim        |720124-03-1839    |019-9563821    |Fracture Repair      |Completed    |31-01-2023   |1500.00   |
+|Sarah Aisyah binti Amir         |920413-11-0388    |017-4552192    |Fracture Repair      |Pending      |13-02-2023   |1500.00   |
+|Juliana binti Evans             |960314-04-7432    |011-7417537    |Fracture Repair      |Completed    |14-02-2023   |1500.00   |
+|Iman Safiyyah binti Imran       |750913-07-1836    |017-5581932    |Joint Replacement    |Completed    |25-02-2023   |10000.00  |
+|Khadijah Zaini binti Zahrul     |931230-10-1162    |017-8892730    |Fracture Repair      |Completed    |01-03-2023   |1500.00   |
+|Danish Hakim bin Rahim          |810502-07-1817    |017-3429421    |Spinal Surgery       |Pending      |12-03-2023   |8000.00   |
+|Irfan Syahmi bin Amirul         |870921-02-0183    |019-7329384    |Joint Replacement    |Completed    |16-03-2023   |10000.00  |
+|Hannah Damia binti Harriz       |621114-02-1038    |019-4297610    |Arthroscopy          |Pending      |14-04-2023   |5000.00   |
+|Haziq Zikri bin Azam            |730723-10-3829    |019-7452301    |Arthroscopy          |Completed    |30-04-2023   |5000.00   |
+|Ahmad Sufian bin Suhaimi        |000607-06-8773    |011-2566917    |Fracture Repair      |Completed    |02-05-2023   |1500.00   |
+|Alisha Balqis binti Zafir       |750120-01-1934    |019-2819014    |Arthroscopy          |Completed    |18-05-2023   |5000.00   |
+|Nur Khalisha binti Amsyar       |701224-10-3816    |019-5283956    |Fracture Repair      |Pending      |22-05-2023   |1500.00   |
+|Iris Amani binti Hady           |980718-08-4634    |017-6552934    |Spinal Surgery       |Completed    |28-05-2023   |8000.00   |
+|Anis Sabrina binti Ady          |930911-01-6950    |016-6418860    |Fracture Repair      |Pending      |07-06-2023   |1500.00   |
+|Aleeya Batrisha binti Fazrul    |750922-03-3728    |010-2059727    |Spinal Surgery       |Pending      |13-06-2023   |8000.00   |
+|Ariff Asyraf bin Khalid         |801010-07-9321    |017-7294630    |Spinal Surgery       |Completed    |19-06-2023   |8000.00   |
+|Muhammad Alif bin Teega         |861202-04-1413    |014-0508748    |Spinal Surgery       |Pending      |20-06-2023   |8000.00   |
+|Aidan Hadif bin Ishak           |930418-12-9217    |017-8772305    |Spinal Surgery       |Completed    |21-06-2023   |8000.00   |
+|Aida Radhiah binti Azmi         |700525-01-5266    |011-7540158    |Arthroscopy          |Completed    |30-06-2023   |5000.00   |
+|Nurul Irdina binti Azmir        |920326-10-7822    |019-2911013    |Arthroscopy          |Completed    |21-07-2023   |5000.00   |
+|Marissa Iris binti Saiful       |070611-13-4032    |019-6239415    |Fracture Repair      |Completed    |02-08-2023   |1500.00   |
+|Aqil Ammar bin Hamadi           |780223-11-0623    |019-7382261    |Spinal Surgery       |Pending      |03-08-2023   |8000.00   |
+|Hana Humaira binti Rodzaini     |671206-02-7608    |011-2908018    |Arthroscopy          |Completed    |06-08-2023   |5000.00   |
+|Mia Qaisara binti Hafiz         |681201-09-0292    |017-6355021    |Joint Replacement    |Pending      |09-09-2023   |10000.00  |
+|Intan Haziqah binti Shadi       |970307-11-2774    |016-1502628    |Joint Replacement    |Pending      |19-09-2023   |10000.00  |
+|Danish Rayyan bin Izwan         |040723-01-1937    |017-7632184    |Arthroscopy          |Completed    |07-10-2023   |5000.00   |
+|Muhammad Aqeel bin Riduan       |960127-01-8281    |011-2805011    |Arthroscopy          |Completed    |19-10-2023   |5000.00   |
+|Marissa Alya binti Alif         |610413-06-9160    |017-6392210    |Joint Replacement    |Completed    |08-11-2023   |10000.00  |
+|Yusuf bin Syukri                |750223-05-1831    |012-1246229    |Joint Replacement    |Completed    |01-12-2023   |10000.00  |
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+==================================================================================================================================
+Patient List (Searched)
+==================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------
+|Name                            |IC Number         |Telephone No.  |Type                 |Status       |Date         |Cost(RM)  |
+----------------------------------------------------------------------------------------------------------------------------------
+|Yusnita binti Sokman            |12345             |54321          |Arthroscopy          |Completed    |18-01-2023   |5000.00   |
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+=========================================================================================================
+Total Patient According To Treatment Type
+=========================================================================================================
+---------------------------------------------------------------------------------------------------------
+|Arthroscopy              |Joint Replacement        |Spinal Surgery           |Fracture Repair          |
+---------------------------------------------------------------------------------------------------------
+|9                        |6                        |7                        |9                        |
+---------------------------------------------------------------------------------------------------------
+
+
+===============================
+Total Cost For All Patient(RM)
+===============================
+-------------------------------
+|174500.00                    |
+-------------------------------
+
+
+==================================================================================================================================
+Complete List
+==================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------
+|Name                            |IC Number         |Telephone No.  |Type                 |Status       |Date         |Cost      |
+----------------------------------------------------------------------------------------------------------------------------------
+|Nadhir Darwish bin Hakim        |720124-03-1839    |019-9563821    |Fracture Repair      |Completed    |31-01-2023   |1500.00   |
+|Juliana binti Evans             |960314-04-7432    |011-7417537    |Fracture Repair      |Completed    |14-02-2023   |1500.00   |
+|Iman Safiyyah binti Imran       |750913-07-1836    |017-5581932    |Joint Replacement    |Completed    |25-02-2023   |10000.00  |
+|Khadijah Zaini binti Zahrul     |931230-10-1162    |017-8892730    |Fracture Repair      |Completed    |01-03-2023   |1500.00   |
+|Irfan Syahmi bin Amirul         |870921-02-0183    |019-7329384    |Joint Replacement    |Completed    |16-03-2023   |10000.00  |
+|Haziq Zikri bin Azam            |730723-10-3829    |019-7452301    |Arthroscopy          |Completed    |30-04-2023   |5000.00   |
+|Ahmad Sufian bin Suhaimi        |000607-06-8773    |011-2566917    |Fracture Repair      |Completed    |02-05-2023   |1500.00   |
+|Alisha Balqis binti Zafir       |750120-01-1934    |019-2819014    |Arthroscopy          |Completed    |18-05-2023   |5000.00   |
+|Iris Amani binti Hady           |980718-08-4634    |017-6552934    |Spinal Surgery       |Completed    |28-05-2023   |8000.00   |
+|Ariff Asyraf bin Khalid         |801010-07-9321    |017-7294630    |Spinal Surgery       |Completed    |19-06-2023   |8000.00   |
+|Aidan Hadif bin Ishak           |930418-12-9217    |017-8772305    |Spinal Surgery       |Completed    |21-06-2023   |8000.00   |
+|Aida Radhiah binti Azmi         |700525-01-5266    |011-7540158    |Arthroscopy          |Completed    |30-06-2023   |5000.00   |
+|Nurul Irdina binti Azmir        |920326-10-7822    |019-2911013    |Arthroscopy          |Completed    |21-07-2023   |5000.00   |
+|Marissa Iris binti Saiful       |070611-13-4032    |019-6239415    |Fracture Repair      |Completed    |02-08-2023   |1500.00   |
+|Hana Humaira binti Rodzaini     |671206-02-7608    |011-2908018    |Arthroscopy          |Completed    |06-08-2023   |5000.00   |
+|Danish Rayyan bin Izwan         |040723-01-1937    |017-7632184    |Arthroscopy          |Completed    |07-10-2023   |5000.00   |
+|Muhammad Aqeel bin Riduan       |960127-01-8281    |011-2805011    |Arthroscopy          |Completed    |19-10-2023   |5000.00   |
+|Marissa Alya binti Alif         |610413-06-9160    |017-6392210    |Joint Replacement    |Completed    |08-11-2023   |10000.00  |
+|Yusuf bin Syukri                |750223-05-1831    |012-1246229    |Joint Replacement    |Completed    |01-12-2023   |10000.00  |
+|Balqis Ariana binti Umar        |718020-05-3892    |017-4811239    |Fracture Repair      |Completed    |07-01-2023   |1500.00   |
+|Yusnita binti Sokman            |12345             |54321          |Arthroscopy          |Completed    |18-01-2023   |5000.00   |
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+==================================================================================================================================
+Patient List (Removed)
+==================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------
+|Name                            |IC Number         |Telephone No.  |Type                 |Status       |Date         |Cost      |
+----------------------------------------------------------------------------------------------------------------------------------
+|Sarah Aisyah binti Amir         |920413-11-0388    |017-4552192    |Fracture Repair      |Pending      |13-02-2023   |1500.00   |
+|Danish Hakim bin Rahim          |810502-07-1817    |017-3429421    |Spinal Surgery       |Pending      |12-03-2023   |8000.00   |
+|Hannah Damia binti Harriz       |621114-02-1038    |019-4297610    |Arthroscopy          |Pending      |14-04-2023   |5000.00   |
+|Nur Khalisha binti Amsyar       |701224-10-3816    |019-5283956    |Fracture Repair      |Pending      |22-05-2023   |1500.00   |
+|Anis Sabrina binti Ady          |930911-01-6950    |016-6418860    |Fracture Repair      |Pending      |07-06-2023   |1500.00   |
+|Aleeya Batrisha binti Fazrul    |750922-03-3728    |010-2059727    |Spinal Surgery       |Pending      |13-06-2023   |8000.00   |
+|Muhammad Alif bin Teega         |861202-04-1413    |014-0508748    |Spinal Surgery       |Pending      |20-06-2023   |8000.00   |
+|Aqil Ammar bin Hamadi           |780223-11-0623    |019-7382261    |Spinal Surgery       |Pending      |03-08-2023   |8000.00   |
+|Mia Qaisara binti Hafiz         |681201-09-0292    |017-6355021    |Joint Replacement    |Pending      |09-09-2023   |10000.00  |
+|Intan Haziqah binti Shadi       |970307-11-2774    |016-1502628    |Joint Replacement    |Pending      |19-09-2023   |10000.00  |
+----------------------------------------------------------------------------------------------------------------------------------
